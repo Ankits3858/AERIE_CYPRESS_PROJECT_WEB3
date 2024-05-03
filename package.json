@@ -1,0 +1,21 @@
+{
+  "name": "aerie3.0_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "cypress-html-validate": "^6.1.0",
+    "cypress-visual-regression": "^4.0.0",
+    "cypress-xpath": "^2.0.1",
+    "typo-js": "^1.2.3"
+  },
+  "dependencies": {
+    "cypress-mochawesome-reporter": "^3.8.0"
+  }
+}
